@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int a;    
     string data;
-    string filename = "example.txt";
+    string filename = "exam.txt";
 
     // Writing to a file (overwrite mode) with user input
     cout << "Enter text to write to the file (overwrite mode): ";
@@ -54,3 +54,4 @@ int main() {
 
     return 0;
 }
+
